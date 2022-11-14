@@ -15,7 +15,7 @@ body{
   font-family: MS UI Gothic;
 }
 #header{
-  position: absolute;
+  position: fixed;
   left: 100px;
   top: 20px;
 }
@@ -24,4 +24,25 @@ body{
   left: 100px;
   top: 50px;
 }
+.form-group{
+  position: fixed;
+  left: 230px;
+  top: 20px;
+  height: 22px;
+}
+.form-group2{
+  position: fixed;
+  left: 420px;
+  top: 20px;
+  height: 30px;
+}
+.form-group3{
+  background-color: aliceblue;
+  position: fixed;
+  width: 30px;
+  height: 30px;
+  left: 500px;
+  top: 20px;
+}
+
 
