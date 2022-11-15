@@ -12,11 +12,11 @@ export default function App() {
              <td bgcolor = "#cd5c5c" width = "400">
               <tr>
                 <td width="200">
-                  <h3 id="logo" >Videos</h3>
+                  <h id="logo" >Videos</h>
                 </td>
                 <td width="200" align="right">
                   
-                  <p id="logo6">Browser all Views</p>
+                  <a href=""><p id="logo6">Browser all Views</p></a>
                 </td>
                 <td width="200">
                 </td>
