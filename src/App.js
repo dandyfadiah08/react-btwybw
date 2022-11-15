@@ -6,9 +6,13 @@ export default function App() {
     <div id="menu">
       <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="#">Home</a></li>
-    <li class="breadcrumb-item"><a href="#">Library</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Data</li>
+    <li class="breadcrumb-item"><a href="#">Videos</a></li>
+    <li class="breadcrumb-item"><a href="#">People</a></li>
+    <li class="breadcrumb-item"><a href="#">Documents</a></li>
+    <li class="breadcrumb-item"><a href="#">Events</a></li>
+    <li class="breadcrumb-item"><a href="#">Communities</a></li>
+    <li class="breadcrumb-item"><a href="#">Favorites</a></li>
+    <li class="breadcrumb-item"><a href="#">Channels</a></li>
   </ol>
 </nav>
     </div>
