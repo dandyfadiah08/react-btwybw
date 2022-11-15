@@ -20,6 +20,13 @@ li {
   color: aliceblue;
   font-family: system-ui;
 }
+#logo6 {
+  color: aliceblue;
+  font-family: system-ui;
+}
+hr{
+  border-color: aliceblue;
+}
 #logo2 {
   color: aliceblue;
   font-family: MS UI Gothic;
@@ -28,6 +35,11 @@ li {
   position: fixed;
   left: 100px;
   top: 20px;
+}
+#section1 {
+  position: absolute;
+  left: 100px;
+  top: 200px;
 }
 #menu {
   position: absolute;
@@ -54,3 +66,5 @@ li {
   left: 500px;
   top: 20px;
 }
+
+

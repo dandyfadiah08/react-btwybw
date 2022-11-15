@@ -4,6 +4,7 @@ import "./style.css";
 export default function App() {
   return (
     <div id="menu">
+      <hr/>
       <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="#">Videos</a></li>
@@ -15,6 +16,7 @@ export default function App() {
     <li class="breadcrumb-item"><a href="#">Channels</a></li>
   </ol>
 </nav>
+    <hr/>
     </div>
   );
 }
