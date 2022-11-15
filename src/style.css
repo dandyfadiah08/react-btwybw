@@ -9,6 +9,9 @@ body {
 table{
   border-color: #cd5c5c;
 }
+#brand{
+  color: black;
+}
 .breadcrumb {
   background-color: #cd5c5c;
   

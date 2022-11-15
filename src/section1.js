@@ -163,8 +163,18 @@ export default function App() {
               </tr>
              </td>
               
-             <td bgcolor = "#eee"  width = "345">
-                Teknik dan Pengaturan Tutorial
+             <td bgcolor = "#cd5c5c"  width = "345">
+             <tr>
+                <td width="200">
+                  <a href=""><h3 id="logo" >Channels</h3></a>
+                </td>
+                <td width="200" align="right">
+                  
+                  <a href=""><p id="logo6">Browser All Channels</p></a>
+                  
+                </td>
+ 
+              </tr>
              </td>
           </tr>
 
