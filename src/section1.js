@@ -10,14 +10,14 @@ export default function App() {
           
 
           <tr valign = "top">
-             <td bgcolor = "#cd5c5c" width = "400">
+             <td bgcolor = "#cd5c5c" >
               <tr>
                 <td width="200">
-                  <h3 id="logo" >Videos</h3>
+                  <a href=""><h3 id="logo" >Videos</h3></a>
                 </td>
                 <td width="200" align="right">
                   
-                  <p id="logo6">Browser all Videos</p>
+                  <a href=""><p id="logo6">Browser all Videos</p></a>
                 </td>
                 <td width="200">
                 </td>
@@ -28,35 +28,44 @@ export default function App() {
                 colSpan="2"
                 rowSpan="2"
                 >
-                  <img width="300" height="330" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                   
                 </td>
 
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <tr>
 
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <tr>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
              </td>
               
-             <td bgcolor = "#eee" >
-                Teknik dan Pengaturan Tutorial
+             <td bgcolor = "#cd5c5c" width = "345" >
+             <tr>
+                <td width="200">
+                  <a href=""><h3 id="logo" >Activity</h3></a>
+                </td>
+                <td width="200" align="right">
+                  
+                  <a href=""><p id="logo6">View Timeline/ Filter Activities</p></a>
+                </td>
+ 
+              </tr>
              </td>
           </tr>
 
@@ -66,14 +75,14 @@ export default function App() {
           
 
           <tr valign = "top">
-             <td bgcolor = "#cd5c5c" width = "400">
+             <td bgcolor = "#cd5c5c">
               <tr>
                 <td width="200">
-                  <h3 id="logo" >People</h3>
+                  <a href=""><h3 id="logo" >People</h3></a>
                 </td>
                 <td width="200" align="right">
                   
-                  <p id="logo6">View All</p>
+                  <a href=""><p id="logo6">View All</p></a>
                 </td>
                 <td width="200">
                 </td>
@@ -84,39 +93,39 @@ export default function App() {
                 colSpan="2"
                 rowSpan="2"
                 >
-                  <img width="300" height="330" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                   
                 </td>
 
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <tr>
 
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <tr>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <br/>
               <tr>
                 <td width="200">
-                  <h3 id="logo" >Documents</h3>
+                  <a href=""><h3 id="logo" >Documents</h3></a>
                 </td>
                 <td width="200" align="right">
                   
-                  <p id="logo6">Browser all documents</p>
+                  <a href=""><p id="logo6">Browser all documents</p></a>
                 </td>
                 <td width="200">
                 </td>
@@ -127,34 +136,34 @@ export default function App() {
                 colSpan="2"
                 rowSpan="2"
                 >
-                  <img width="300" height="330" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                   
                 </td>
 
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <tr>
 
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
               <tr>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 <td>
-                <img width="150" height="150" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
               </tr>
              </td>
               
-             <td bgcolor = "#eee" >
+             <td bgcolor = "#eee"  width = "345">
                 Teknik dan Pengaturan Tutorial
              </td>
           </tr>

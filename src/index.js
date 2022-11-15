@@ -5,7 +5,7 @@ import "./style.css";
 import App from './App';
 import Header from './header';
 import Section1 from './section1';
-import Section2 from './section2';
+import Footer from './footer';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -15,5 +15,6 @@ root.render(
     <Header />
     <App />
     <Section1/>
+    <Footer/>
   </StrictMode>
 );

@@ -11,6 +11,8 @@ table{
 }
 .breadcrumb {
   background-color: #cd5c5c;
+  
+  
   color: aqua;
 }
 a {
@@ -38,6 +40,7 @@ hr{
 #header {
   position: absolute;
   left: 100px;
+  width: 100%;
   top: 20px;
 }
 #section1 {
@@ -52,8 +55,15 @@ hr{
 }
 #menu {
   position: absolute;
+  width: 80%;
   left: 100px;
   top: 50px;
+}
+#footer {
+  position: absolute;
+  width: 80%;
+  left: 100px;
+  top: 2000px;
 }
 .form-group {
   left: 170px;
