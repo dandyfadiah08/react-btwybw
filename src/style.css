@@ -35,7 +35,7 @@ hr{
   font-family: MS UI Gothic;
 }
 #header {
-  position: fixed;
+  position: absolute;
   left: 100px;
   top: 20px;
 }
@@ -44,30 +44,32 @@ hr{
   left: 100px;
   top: 200px;
 }
+#section2 {
+  position: absolute;
+  left: 100px;
+  top: 900px;
+}
 #menu {
   position: absolute;
   left: 100px;
   top: 50px;
 }
 .form-group {
-  position: fixed;
-  left: 230px;
-  top: 20px;
+  left: 170px;
+  position: absolute;
   height: 22px;
 }
 .form-group2 {
-  position: fixed;
+  position: absolute;
   left: 420px;
-  top: 20px;
   height: 30px;
 }
 .form-group3 {
   background-color: aliceblue;
-  position: fixed;
+  position: absolute;
   width: 30px;
   height: 30px;
   left: 500px;
-  top: 20px;
 }
 
 
