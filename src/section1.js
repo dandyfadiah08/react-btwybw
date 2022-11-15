@@ -66,6 +66,92 @@ export default function App() {
                 </td>
  
               </tr>
+              <hr/>
+              <tr>
+                <td  >
+                <img width="90" height="90" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td width="600" >
+                  
+                  JhonanesComented
+                  <br/>
+                  when
+                  <br/>
+                  2 month ago
+                </td>
+ 
+              </tr>
+              <tr>
+                <td  >
+                <img width="90" height="90" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td width="600" >
+                  
+                  JhonanesComented
+                  <br/>
+                  when
+                  <br/>
+                  2 month ago
+                </td>
+ 
+              </tr>
+              <tr>
+                <td  >
+                <img width="90" height="90" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td width="600" >
+                  
+                  JhonanesComented
+                  <br/>
+                  when
+                  <br/>
+                  2 month ago
+                </td>
+ 
+              </tr>
+              <tr>
+                <td  >
+                <img width="90" height="90" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td width="600" >
+                  
+                  JhonanesComented
+                  <br/>
+                  when
+                  <br/>
+                  2 month ago
+                </td>
+ 
+              </tr>
+              <tr>
+                <td  >
+                <img width="90" height="90" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td width="600" >
+                  
+                  JhonanesComented
+                  <br/>
+                  when
+                  <br/>
+                  2 month ago
+                </td>
+ 
+              </tr>
+              <tr>
+                <td  >
+                <img width="90" height="90" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td width="600" >
+                  
+                  JhonanesComented
+                  <br/>
+                  when
+                  <br/>
+                  2 month ago
+                </td>
+ 
+              </tr>
+              <hr/>
              </td>
           </tr>
 
@@ -175,11 +261,111 @@ export default function App() {
                 </td>
  
               </tr>
+              <hr/>
+              <tr>
+                <td   width="200">
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td  width="200" >
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+ 
+              </tr>
+              <tr>
+                <td   width="200">
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td  width="200" >
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+ 
+              </tr>
+              <tr>
+                <td   width="200">
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td  width="200" >
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+ 
+              </tr>
+              <tr>
+                <td   width="200">
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td  width="200" >
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+ 
+              </tr>
+              <tr>
+                <td   width="200">
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+                <td  width="200" >
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                </td>
+ 
+              </tr>
+              <hr/>
              </td>
           </tr>
 
            
        </table>
+       <br/>
+       <hr />
+      <tr>
+        <td width="30" align="center" bgcolor="white">
+          <a href="" id="brand">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </td>
+        <td>&nbsp;&nbsp;&nbsp;</td>
+        <td width="30" align="center" bgcolor="white">
+         <a href="" id="brand"> <i class="fa fa-linkedin"></i></a>
+        </td>
+        <td>
+          <td>&nbsp;&nbsp;&nbsp;</td>
+        </td>
+        <td width="30" align="center" bgcolor="white">
+          <a href="" id="brand"><i class="fa fa-facebook-f"></i></a>
+        </td>
+      </tr>
+      <br />
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="#">About</a>
+          </li>
+          <li class="breadcrumb-item">
+            <a href="#">For Business</a>
+          </li>
+          <li class="breadcrumb-item">
+            <a href="#">Suggestion</a>
+          </li>
+          <li class="breadcrumb-item">
+            <a href="#">Help&FAQ</a>
+          </li>
+          <li class="breadcrumb-item">
+            <a href="#">Contacts</a>
+          </li>
+          <li class="breadcrumb-item">
+            <a href="#">Pricing</a>
+          </li>
+        </ol>
+      </nav>
+      <br />
+
+      <p id="logo">Copyright © 2022 companynameinc.</p>
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="#">Privacy</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="#">Terms</a>
+        </li>
+      </ol>
     </div>
   );
 }
