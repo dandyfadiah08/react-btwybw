@@ -73,20 +73,44 @@ hr{
 }
 .form-group {
   left: 170px;
+  width: 400px;
   position: absolute;
-  height: 22px;
+  height: 30px;
+  top:0px;
+}
+.user{
+  color: black;
 }
 .form-group2 {
   position: absolute;
-  left: 420px;
+  left: 600px;
   height: 30px;
+}
+.lop{
+  position: absolute;
+  left: 540px;
+  top:6px;
 }
 .form-group3 {
   background-color: aliceblue;
   position: absolute;
   width: 30px;
   height: 30px;
-  left: 500px;
+  left: 780px;
+}
+.form-group5 {
+  color: aliceblue;
+  position: absolute;
+  left: 820px;
+  top: 0px;
+  font-size: 12px;
+}
+.form-group6 {
+  color: aliceblue;
+  position: absolute;
+  left: 820px;
+  top: 11px;
+  font-size: 12px;
 }
 
 
