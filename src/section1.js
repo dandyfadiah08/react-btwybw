@@ -28,10 +28,15 @@ export default function App() {
                 colSpan="2"
                 rowSpan="2"
                 >
-                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
-                  
+                  <div class="card bg-dark text-white">
+                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt="" class="card-img"/>
+                  <div class="card-img-overlay">
+                        <h5 class="card-title mt-5">How to Improve Your Skill</h5>
+                        <p class="card-text float-left">Wesheem Arsad </p>
+                        <p class="card-text float-right">199345  viewrs</p>
+                  </div>
+                  </div>
                 </td>
-
                 <td>
                 <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
@@ -55,7 +60,7 @@ export default function App() {
               </tr>
              </td>
               
-             <td bgcolor = "#cd5c5c" width = "345" >
+             <td bgcolor = "#cd5c5c" width = "345" id="text">
              <tr>
                 <td width="200">
                   <a href=""><h3 id="logo" >Activity</h3></a>
@@ -269,17 +274,18 @@ export default function App() {
                 <td   width="200">
                 <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
+                <a href="">
                 <td  width="200" >
                 <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
- 
+                </a>
               </tr>
               <tr>
               </tr>
               <tr>
                 <td   width="200">
-                  <a href="">
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/></a>
+                
+                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 </td>
                 
                 <td  width="200" >
