@@ -30,7 +30,14 @@ export default function App() {
                 >
                   <div class="card bg-dark text-white">
                   <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt="" class="card-img"/>
-                  <div class="card-img-overlay">
+                  <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
                         <h5 class="card-title mt-5">How to Improve Your Skill</h5>
                         <p class="card-text float-left">Wesheem Arsad </p>
                         <p class="card-text float-right">199345  viewrs</p>
@@ -38,24 +45,69 @@ export default function App() {
                   </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                        <p class="card-text float-right">199 viewrs</p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <tr>
 
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                        <p class="card-text float-right">199 viewrs</p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <tr>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                        <p class="card-text float-right">199 viewrs</p>
+                  </div>
+                </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                        <p class="card-text float-right">199 viewrs</p>
+                  </div>
+                </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                        <p class="card-text float-right">199 viewrs</p>
+                  </div>
+                </div>
                 </td>
               </tr>
              </td>
@@ -186,30 +238,83 @@ export default function App() {
                 colSpan="2"
                 rowSpan="2"
                 >
-                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt="">
-                    </img>
+                  <div class="card bg-dark text-white">
+                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt="" class="card-img"/>
+                  <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <h5 class="card-title mt-5">How to Improve Your Skill</h5>
+                        <p class="card-text float-left">Wesheem Arsad </p>
+                        <p class="card-text float-right">199345  viewrs</p>
+                  </div>
+                  </div>
                   
                 </td>
 
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <tr>
 
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <tr>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <br/>
@@ -230,29 +335,78 @@ export default function App() {
                 colSpan="2"
                 rowSpan="2"
                 >
-                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+  <div class="card bg-dark text-white">
+                  <img width="390" height="350" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt="" class="card-img"/>
+                  <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                        <h5 class="card-title mt-5">How to Improve Your Skill</h5>
+                        <p class="card-text float-left">Wesheem Arsad </p>
+                        <p class="card-text float-right">199345  viewrs</p>
+                  </div>
+                  </div>
                   
                 </td>
 
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <p class="card-title"><b>How to Improve</b> </p>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <tr>
 
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <p class="card-title"><b>How to Improve</b> </p>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
               </tr>
               <tr>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <p class="card-title"><b>How to Improve</b> </p>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <p class="card-title"><b>How to Improve</b> </p>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
                 <td>
-                <img width="190" height="170" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card bg-dark text-white">
+                <img width="190" height="170" class="card-img" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay mt-5 ">
+                        <br/>
+                        <p class="card-title"><b>How to Improve</b> </p>
+                        <p class="card-text float-left">Wesheem </p>
+                  </div>
+                </div>
                 </td>
               </tr>
              </td>
@@ -272,7 +426,14 @@ export default function App() {
               <hr/>
               <tr>
                 <td   width="200">
+                <div width="150" height="100" class="card text-white">
                 <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>How to Improve</b> </p>
+                  </div>
+                </div>
                 </td>
                 <a href="">
                 <td  width="200" >
