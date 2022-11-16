@@ -427,17 +427,24 @@ export default function App() {
               <tr>
                 <td   width="200">
                 <div width="150" height="100" class="card text-white">
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
                 <div class="card-img-overlay">
                         <br/>
                         <br/>
-                        <p class="card-title"><b>How to Improve</b> </p>
+                        <p class="card-title"><b>Google</b> </p>
                   </div>
                 </div>
                 </td>
                 <a href="">
                 <td  width="200" >
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
                 </a>
               </tr>
@@ -446,47 +453,117 @@ export default function App() {
               <tr>
                 <td   width="200">
                 
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
                 
                 <td  width="200" >
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
  
               </tr>
               <tr>
                 <td   width="200">
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
                 <td  width="200" >
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
  
               </tr>
               <tr>
                 <td   width="200">
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
                 <td  width="200" >
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
  
               </tr>
               <tr>
                 <td   width="200">
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
                 <td  width="200" >
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
  
               </tr>
               <tr>
                 <td   width="200">
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
                 <td  width="200" >
-                <img width="150" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div width="150" height="100" class="card text-white">
+                <img width="180" height="100" src="https://yt3.ggpht.com/a/AATXAJxdFBJTAfTbhjGVpXHuVMbNcDqXRlzoaly1xg=s900-c-k-c0xffffffff-no-rj-mo" alt=""/>
+                <div class="card-img-overlay">
+                        <br/>
+                        <br/>
+                        <p class="card-title"><b>Google</b> </p>
+                  </div>
+                </div>
                 </td>
  
               </tr>
